@@ -1,0 +1,11 @@
+bin
+.gradle
+build
+logs
+detemp
+.project
+.settings
+.classpath
+src/test/
+.fatjar
+RelationApk_fat.jar
